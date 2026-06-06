@@ -184,6 +184,6 @@ npx playwright show-report
 ## 👤 Autor
 
 **Marco Figueiredo**
-QA Engineer — INTECH Soluções em Previdência
+Analista de Qualidade de Software — INTECH Soluções em Previdência
 📧 marco.junio@intech.com.br
 🔗 [github.com/marcofigueiredo2001](https://github.com/marcofigueiredo2001)
